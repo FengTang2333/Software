@@ -19,5 +19,9 @@
 * 三个版本的下载器区别:
     * **Edit**版本只含**VEGAS**主程序，而且一启动下载器便会自动开始下载
     * **PRO&Suite**版本除了**VEGAS**主程序以外还会有附加组件可供选择
+
+![下载器](https://raw.githubusercontent.com/FengTang2333/Private/master/%E4%B8%8B%E8%BD%BD%E5%99%A8.PNG)
+
 * 压缩文件的解压密码见论坛
+
 * 账号登陆不上请及时在论坛里反馈
