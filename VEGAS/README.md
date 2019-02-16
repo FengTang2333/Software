@@ -16,7 +16,7 @@
     * <u>***Edit***</u>版本只含<u>***VEGAS***</u>主程序，而且一启动下载器便会自动开始下载
     * <u>***PRO&Suite***</u>版本除了<u>***VEGAS***</u>主程序以外还会有附加组件可供选择
 
-![下载器](https://raw.githubusercontent.com/FengTang2333/Private/master/Downloader.PNG?token=AtZQ6PqjuV7pce45JT62z3NBPBy7SwuZks5cZ3aOwA%3D%3D)
+![下载器](http://m.qpic.cn/psb?/V11cHFRa1X2q4f/t7hHEqUg82c32kWO0LF2ma7KObxiJ4Pyjb15e1AdEFc!/b/dFUAAAAAAAAA&bo=bAdOAmwHTgIDCSw!&rf=viewer_4)
 
 * 压缩文件的解压密码见[论坛](http://www.dvedit.cn/forum.php?mod=viewthread&tid=220025&page=1#pid8309418)
 
