@@ -9,7 +9,7 @@
 #### <u> ***Done(1/2)!*** </u>
 <u>***Step Two——下载安装***</u>
 --------------
-* **(全程保持联上国际网络!!!)**
+* ***(全程保持联上国际网络 !!!)***
 * 根据自己的需要下载对应版本的VEGAS下载器和补丁( 这里我只提供<u>***VEGAS 15&16***</u>系列<u>***PRO&Suite***</u>版本的官方下载器 )
 * 根据自己的需要安装<u>***VEGAS***</u>及附加组件
 * 安装汉化补丁(虽然用15版本的下载器可以下载到简体中文试用版,但是最好再用补丁加固下,用了就知道)
@@ -20,8 +20,8 @@
     * <u>***Edit***</u>版本只含<u>***VEGAS***</u>主程序，而且一启动下载器便会自动开始下载
     * <u>***PRO&Suite***</u>版本除了<u>***VEGAS***</u>主程序以外还会有附加组件可供选择
 
-![下载器](https://raw.githubusercontent.com/FengTang2333/Private/master/%E4%B8%8B%E8%BD%BD%E5%99%A8.PNG)
+![下载器](https://raw.githubusercontent.com/FengTang2333/Private/master/Downloader.PNG?token=AtZQ6L6O8OV7-qMnV-iBmlIfn2-Gsxi_ks5cZ3UbwA%3D%3D)
 
-* 压缩文件的解压密码见论坛
+* 压缩文件的解压密码见[论坛](http://www.dvedit.cn/forum.php?mod=viewthread&tid=220025&page=1#pid8309418)
 
-* 账号登陆不上请及时在论坛里反馈
+* 账号登陆不上请及时在[论坛](http://www.dvedit.cn/forum.php?mod=viewthread&tid=220025&page=1#pid8309418)里反馈
